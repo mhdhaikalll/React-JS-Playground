@@ -1,0 +1,27 @@
+.box{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #000;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0px 0px 5px #5c5c5c;
+    font-size: 18px;
+}
+.placement{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    max-width: 760px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
